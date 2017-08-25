@@ -9,7 +9,11 @@ define(function () {
             'REJECTED': 2
         },
         'INTERNAL_COMMUNICATION_XML': '5140',
+
+        'testing', 'test'
+
         'NEW': 'change'
+      
     }
 
     return CONSTANTS
